@@ -1,0 +1,16 @@
+body {
+    background-color: blue;
+    font-size: 150%;
+}
+h1 {
+    align: center;
+}
+h2 {
+    font: 15px arial;
+}
+p {
+    border: 7px solid red;
+}
+li {
+    font: 10px san-serif;
+}
