@@ -4,10 +4,16 @@ body {
 }
 h1 {
     text-align: center;
+    font: 80px sans-serif;
+    color: green;
 }
 h2 {
-    font: 10px arial;
+    font: 50px arial;
+    color: yellow;
 }
+h3 {
+    font: 30px courier;
+    color: orange;
 p {
     border: 5px solid blue;
 }
