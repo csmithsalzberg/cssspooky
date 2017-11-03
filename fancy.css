@@ -1,0 +1,34 @@
+.extreme {
+    background-color: #F3B3A6;
+    padding: 10px;
+    color: #B98B82;
+    font: 200px, arial;
+    text-align: center;
+}
+.navzone {
+    padding-left: 50px;
+    color: #82846D;
+    font: 20px sans-serif;
+    
+}
+a:hover {
+    background-color: yellow;
+    font-size: 120%;
+}
+a:visited {
+    color: blue;
+}
+.content {
+    padding-left: 100px;
+    padding-right: 500px;
+    color: green;     
+}
+.prose {
+    color: purple;
+}
+#head1 {
+    color: red;
+}
+#tehlulz{
+    font: 100px courier;
+}
